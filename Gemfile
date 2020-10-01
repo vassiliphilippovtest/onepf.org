@@ -1,2 +1,2 @@
-source :rubygems
+source :Rubygems
 gem 'rack'
